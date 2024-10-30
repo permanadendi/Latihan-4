@@ -111,3 +111,5 @@ File Utama/Main
     }
 
 #### Output
+
+![Gambar 1](Screenshot/ss1.png)
